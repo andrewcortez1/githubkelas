@@ -6,3 +6,8 @@ aku update dari github ini
 
 ====================
 update branch
+git add*
+
+git branch "B1"
+git add *
+git commit -m "Commit versi updatean notepad"
