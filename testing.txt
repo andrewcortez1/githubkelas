@@ -11,3 +11,5 @@ git add*
 git branch "B1"
 git add *
 git commit -m "Commit versi updatean notepad"
+ 
+update 1.1
